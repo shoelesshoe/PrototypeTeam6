@@ -1,7 +1,7 @@
 # Notepad# and Big AI 6 Prototype (Big Hero 6)
 ## By: Team 6
 
-## What is ig AI 6?
+## What is Big AI 6?
 The AI that we are creating is called Big AI 6, which its name was inspired by the character Big Hero 6 movie as it will be helping teams to organise ideas for projects, making their lives easier for them, just like how Baymax helps Hiro in his daily life. 
 
 ## How is Big AI 6 created and how does it work?
