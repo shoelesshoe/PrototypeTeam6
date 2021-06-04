@@ -9,7 +9,7 @@ Big AI 6 uses the tool “Speech Lab” from AI-Bricks to convert speech into te
 
 1. The User can either input the manuscript directly or they can use our speech to text feature to get the manuscript from a video and submit that into the AI
 2. We will take that and compare how similar the sentences are to each other
-3. We will the user how many sentences they want to simplified summary to be
+3. We will ask the user how many sentences they want to simplified summary to be
 4. We will then produce the least similar sentences, hence providing an apt summary of the content to the best of the ability.
 
 ## What can Big AI 6 do for you?
