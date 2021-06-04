@@ -1,0 +1,53 @@
+  .text-area .content{
+      -fx-background-color: rgb(29, 185, 84);
+  }
+
+.text-area {
+    -fx-background-color: rgb(29, 185, 84);
+    -fx-background-insets: 0, 0 0 1 0 ;
+    -fx-background-radius: 0 ;
+    -fx-font-color: rgba(0, 0, 0, 1);
+    -fx-prompt-text-fill: rgba(0, 0, 0, 1);
+}
+.text-area:focused {
+    -fx-background-color: rgba(29, 185, 84, 1), rgba(22, 22, 22, 0.27);;
+}
+
+.text-field {
+    -fx-background-color: -fx-text-box-border, rgba(22, 22, 22, 0.27);
+    -fx-background-insets: 0, 0 0 1 0 ;
+    -fx-background-radius: 0 ;
+    -fx-font-color: rgba(0, 0, 0, 1);
+    -fx-prompt-text-fill: rgb(3, 83, 10);
+}
+.text-field:focused {
+    -fx-background-color: rgba(29, 185, 84, 1), rgba(22, 22, 22, 0.27);
+}
+
+.password-field {
+    -fx-background-color: -fx-text-box-border, rgba(22, 22, 22, 0.27);
+    -fx-background-insets: 0, 0 0 1 0 ;
+    -fx-background-radius: 0 ;
+}
+.password-field:focused {
+    -fx-background-color: rgba(29, 185, 84, 1), rgba(22, 22, 22, 0.27);
+}
+
+.button {
+    -fx-background-color: rgba(29, 185, 84, 1);
+    -fx-background-insets: 0, 0 0 1 0 ;
+    -fx-background-radius: 0 ;
+    -fx-border-color: rgba(3, 22, 10, 1);
+}
+
+.button:hover {
+    -fx-background-color: rgba(19, 119, 54, 1);
+    -fx-background-insets: 0, 0 0 1 0 ;
+    -fx-background-radius: 0 ;
+}
+
+.button:pressed {
+    -fx-border-color: rgba(76,77,123,255);
+    -fx-background-insets: 0, 0 0 1 0 ;
+    -fx-background-color: rgba(29, 185, 84, 1);
+}
